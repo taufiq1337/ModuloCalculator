@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/780c0016e9fe3e7bbbe9b3c215e3fca6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/26ba6dda2370e67927942bcf7c36f5ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/7a3768d60df35d334ef95db2e7e6ffde/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2887983eb68ef2a38203dc8f7a1da39c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/cef178a8eba2b1d0f577dcd9b7a1bd6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/918e2b41abd8d1e1a2d7bebafc7afe64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/a2d93e01e4b7a7cf9a23efde6ed3a6bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/fce7a239071d00541694d57799817090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d0364d5a33643d3aa55889c434f60081/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/d94c8f5691713450b1260949a307653c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3a99760a0553446bf44a989cd8f48e96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/255f6ac27cdd668c2095da6a3283ed87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/90d600c5fa5636c9ac2bcb2b6fff4403/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/590b49b627b43a758f6e7867a5d2b533/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/35a7ba2c26d889d9c17fed7d95f0a179/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a4d91b67581c8307e75b4ba730da602/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c3988d45cc206a183d12c9f34d40e17/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c29a598cc9ae85c8f4730c06010a9f5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:5:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2887983eb68ef2a38203dc8f7a1da39c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2887983eb68ef2a38203dc8f7a1da39c/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.sourcey.materiallogindemo.LoginActivity
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:10:9-22:20
+	android:theme
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:12:13-49
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:11:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.sourcey.materiallogindemo.MainActivity
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:23:9-25:48
+	android:label
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:24:13-41
+activity#com.sourcey.materiallogindemo.SignupActivity
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:28:9-30:52
+	android:theme
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:29:13-43
+activity#com.sourcey.materiallogindemo.CalculatorActivity
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:31:19-53
+activity#com.sourcey.materiallogindemo.AboutActivity
+ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/780c0016e9fe3e7bbbe9b3c215e3fca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/780c0016e9fe3e7bbbe9b3c215e3fca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/26ba6dda2370e67927942bcf7c36f5ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/26ba6dda2370e67927942bcf7c36f5ae/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/7a3768d60df35d334ef95db2e7e6ffde/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/macbook/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/7a3768d60df35d334ef95db2e7e6ffde/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2887983eb68ef2a38203dc8f7a1da39c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/macbook/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2887983eb68ef2a38203dc8f7a1da39c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/cef178a8eba2b1d0f577dcd9b7a1bd6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/cef178a8eba2b1d0f577dcd9b7a1bd6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/918e2b41abd8d1e1a2d7bebafc7afe64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/918e2b41abd8d1e1a2d7bebafc7afe64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/a2d93e01e4b7a7cf9a23efde6ed3a6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/a2d93e01e4b7a7cf9a23efde6ed3a6bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/fce7a239071d00541694d57799817090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/fce7a239071d00541694d57799817090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d0364d5a33643d3aa55889c434f60081/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d0364d5a33643d3aa55889c434f60081/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/d94c8f5691713450b1260949a307653c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/d94c8f5691713450b1260949a307653c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3a99760a0553446bf44a989cd8f48e96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3a99760a0553446bf44a989cd8f48e96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/255f6ac27cdd668c2095da6a3283ed87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/255f6ac27cdd668c2095da6a3283ed87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/90d600c5fa5636c9ac2bcb2b6fff4403/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/90d600c5fa5636c9ac2bcb2b6fff4403/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/590b49b627b43a758f6e7867a5d2b533/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/590b49b627b43a758f6e7867a5d2b533/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/35a7ba2c26d889d9c17fed7d95f0a179/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/35a7ba2c26d889d9c17fed7d95f0a179/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a4d91b67581c8307e75b4ba730da602/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8a4d91b67581c8307e75b4ba730da602/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c3988d45cc206a183d12c9f34d40e17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c3988d45cc206a183d12c9f34d40e17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c29a598cc9ae85c8f4730c06010a9f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/macbook/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8c29a598cc9ae85c8f4730c06010a9f5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Downloads/materiallogindemo-master/app/src/main/AndroidManifest.xml
